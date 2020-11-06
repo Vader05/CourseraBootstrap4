@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "curso bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vader05/Guia-Hoteles.git"
+  },
+  "author": "kevin Cueva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vader05/Guia-Hoteles/issues"
+  },
+  "homepage": "https://github.com/Vader05/Guia-Hoteles#readme"
+}
